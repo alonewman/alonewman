@@ -29,6 +29,17 @@ hours: finite. hobbies: 12 logged [+1]. opportunity cost: worth it.
 
 ## side quests
 
+### LILI
+AI receptionist for schools on WhatsApp. answers parents, fills the family form and books campus visits on her own.
+[site](https://lililabs.com.br) · source: private
+
+[![LILI](media/lili_banner_h.webp)](https://lililabs.com.br)
+
+```
+parent> can we visit the school on thursday?
+lili>   sure! i have 10am or 3pm open. which one works?
+```
+
 ### LAST RIDER
 tiny ASCII isometric action game.
 [source](https://github.com/alonewman/last-rider) · [play](https://last-rider.vercel.app)
@@ -40,17 +51,6 @@ ASCII first-person horror for phones in landscape.
 [source](https://github.com/alonewman/soulm) · [play](https://soulm.vercel.app)
 
 [![DEEPHOLD](https://www.ricardoneumann.xyz/media/deephold_banner_h.webp)](https://soulm.vercel.app)
-
-### LILI
-AI receptionist for schools on WhatsApp. answers parents, fills the family form and books campus visits on her own.
-[site](https://lililabs.com.br) · source: private
-
-[![LILI](media/lili_banner_h.webp)](https://lililabs.com.br)
-
-```
-parent> can we visit the school on thursday?
-lili>   sure! i have 10am or 3pm open. which one works?
-```
 
 ## instruments
 
