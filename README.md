@@ -45,7 +45,7 @@ ASCII first-person horror for phones in landscape.
 AI receptionist for schools on WhatsApp. answers parents, fills the family form and books campus visits on her own.
 [site](https://lililabs.com.br) · source: private
 
-[![LILI](https://lililabs.com.br/og-lili-labs.png)](https://lililabs.com.br)
+[![LILI](media/lili_banner_h.webp)](https://lililabs.com.br)
 
 ```
 parent> can we visit the school on thursday?
