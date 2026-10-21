@@ -41,10 +41,11 @@ ASCII first-person horror for phones in landscape.
 
 [![DEEPHOLD](https://www.ricardoneumann.xyz/media/deephold_banner_h.webp)](https://soulm.vercel.app)
 
-## ai on whatsapp
+### LILI
+AI receptionist for schools on WhatsApp. answers parents, fills the family form and books campus visits on her own.
+[site](https://lililabs.com.br) · source: private
 
-**Lili** is a virtual assistant for schools. She answers parents on WhatsApp, checks the schedule and books campus visits on her own. Built for Colegio Reggio Emilia.
-[demo](https://mainframe-2ds91ajvg-reggio.vercel.app/)
+[![LILI](https://lililabs.com.br/og-lili-labs.png)](https://lililabs.com.br)
 
 ```
 parent> can we visit the school on thursday?
